@@ -14,3 +14,7 @@ We are security researchers and our Goal is to educate people and protect them a
 2. ```cd DARK-EAGLE-FRAMEWORK ```
 3. ```sudo chmod +x install.sh```
 4. ```sudo bash install.sh```
+
+# RUN
+After installation completed !! Now start the framework
+``` sudo python3 framework.py ````
