@@ -11,7 +11,7 @@ We are security researchers and our Goal is to educate people and protect them a
 # INSTALLATION
 
 1. ```git clone https://github.com/DARK-EAGLE-FRAMEWORK/framework ```
-2. ```cd DARK-EAGLE-FRAMEWORK ```
+2. ```cd framework```
 3. ```sudo chmod +x install.sh```
 4. ```sudo bash install.sh```
 
