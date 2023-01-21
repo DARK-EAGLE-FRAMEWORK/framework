@@ -18,3 +18,7 @@ We are security researchers and our Goal is to educate people and protect them a
 # RUN
 After installation completed !! Now start the framework
 1. ```sudo python3 framework.py```
+
+# AUTHORS
+1. AuxGrep - https://github.com/AuxGrep
+2. TripleHat - https://github.com/TripleHat
