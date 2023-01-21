@@ -17,4 +17,4 @@ We are security researchers and our Goal is to educate people and protect them a
 
 # RUN
 After installation completed !! Now start the framework
-``` sudo python3 framework.py ````
+1. ```sudo python3 framework.py````
