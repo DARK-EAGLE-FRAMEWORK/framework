@@ -238,7 +238,15 @@ while True:
         
         elif module_number == int(8):
             os.system('clear')
-            print(f'{red}{BOLD}{ITALIC}{BLINK}Module 8, Still On development!! Try Again letter{END}')
+            print('LOADING STROLLING MODULE!!')
+            from bar.bar import bar_module2
+            bar_module2()
+            os.system('clear')
+            from banner.banner import banner
+            banner()
+            from mk47.module import mk47
+            mk47()
+            os.system('clear')
 
         elif module_number == int(9):
             os.system('clear')
