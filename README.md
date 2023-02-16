@@ -16,6 +16,12 @@ We are security researchers and our Goal is to educate people and protect them a
 4. ```sudo chmod +x framework.py```
 5. ```sudo bash install.sh```
 
+# DOWNLOAD
+To get Latest version of framework, please download our release packages
+
+link https://github.com/DARK-EAGLE-FRAMEWORK/framework/releases
+
+
 # RUN
 After installation completed !! Now start the framework
 1. ```sudo python3 framework.py```
